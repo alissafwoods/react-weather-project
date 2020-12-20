@@ -10,7 +10,7 @@ export default function Footer() {
           target="_blank"
         >
           Open-source code
-        </a>
+        </a>{" "}
         by Alissa Woods
       </p>
     </div>

@@ -52,8 +52,4 @@ export default function App() {
       <script src="src/script.js"></script>
     </div>
   );
-
-  function newFunction() {
-    return "Victoria";
-  }
 }

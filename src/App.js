@@ -20,7 +20,7 @@ export default function App() {
               <p className="today-temperature">
                 <span>{weatherData.temperature}°</span>
                 <br />
-                <a href="/">C</a> |<a href="/">F</a>
+                <a href="/">C</a> |<a href="/"> F</a>
               </p>
               <img
                 src={sunImg}
